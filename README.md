@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
- <img src="https://i.imgur.com/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png" alt="Haris Zamir" width="800"/>
+ <img src="https://i.imgur.com/linkedin_banner.png" alt="Haris Zamir" width="800"/>
 </p>
 
 # 👋 Hi, I'm Haris Zamir
@@ -14,29 +14,23 @@ I’m currently exploring web development and working on personal projects that 
 
 ## 💻 Skills & Tools
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/access/access-plain.svg" alt="Access" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-plain.svg" alt="Excel" width="40" height="40"/>
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![VS CODE](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MS ACCESS](https://img.shields.io/badge/MS%20ACCESS-A4373E?style=for-the-badge&logo=microsoft-access&logoColor=white)
+![MS EXCEL](https://img.shields.io/badge/MS%20EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![SCRATCH](https://img.shields.io/badge/SCRATCH-FEDB2F?style=for-the-badge&logo=scratch&logoColor=black)
+![FLASK](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
 ## 📫 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/haris-zamir-111b10344/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="mailto:hariszamir07@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
-  </a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haris-zamir-111b10344/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariszamir07@gmail.com)
