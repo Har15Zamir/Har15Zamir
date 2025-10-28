@@ -6,7 +6,7 @@
 # 👋 Hi, I'm Haris Zamir
 
 ## 🧠 About Me
-I’m Haris Zamir, a Computer Science sophomore at NED University of Engineering & Technology, Karachi, passionate about Software Engineering, Cybersecurity, and Artificial Intelligence.  
+I’m Haris Zamir, a Computer Science sophomore at NED University of Engineering & Technology, Karachi, passionate about Software Engineering and Cybersecurity.  
 
 I’m currently exploring web development and working on personal projects that combine software design, problem-solving, and secure coding practices, all while polishing my skills in **C++, Python, SQL**, and more.
 
