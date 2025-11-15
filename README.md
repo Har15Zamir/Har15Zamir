@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
- <img src="./linkedin_banner.png" alt="Haris Zamir" width="1200"/>
+ <img src="./linkedin_banner.png" alt="Haris Zamir banner" width="1200"/>
 </p>
 
 # 👋 Hi, I'm Haris Zamir
