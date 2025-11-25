@@ -1,5 +1,5 @@
 <!-- Header Image -->
-<p align="center">
+<p align = "center">
  <img src="./linkedin_banner.png" alt="Haris Zamir banner" width="1200"/>
 </p>
 
