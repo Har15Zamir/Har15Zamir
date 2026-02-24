@@ -13,31 +13,18 @@ Current focus:
 
 ---
 
-
-## 💻 Skills & Tools
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![VS CODE](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MS ACCESS](https://img.shields.io/badge/MS%20ACCESS-A4373E?style=for-the-badge&logo=microsoft-access&logoColor=white)
-![MS EXCEL](https://img.shields.io/badge/MS%20EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![SCRATCH](https://img.shields.io/badge/SCRATCH-FEDB2F?style=for-the-badge&logo=scratch&logoColor=black)
-![FLASK](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
-
----
-
 ## 💻 Tech Stack
 
+You definitely can. Since VirtualBox is the platform you use to run your security lab (Kali, SIEMs, etc.), the most logical place for it is under "Developer Tools" or "Offensive & Network Tools."
+
+Given your profile, let's tuck it into Developer Tools. It keeps the table from getting too long and shows that it's part of your standard workflow.
+
+Here is the condensed version with emu8086 (x86 Assembly) and VirtualBox integrated into the existing categories:
+
+👨‍💻 Technical Skills
 <table align="center">
 <tr>
-<th align="left">💻 Programming Languages</th>
+<th align="left">💻 Programming</th>
 <td>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -45,7 +32,7 @@ Current focus:
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+<img src="https://img.shields.io/badge/x86_Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white" />
 </td>
 </tr>
 
@@ -61,31 +48,14 @@ Current focus:
 </tr>
 
 <tr>
-<th align="left">🛡️ SIEM & Monitoring</th>
+<th align="left">🛡️ SIEM & Security Tools</th>
 <td>
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Chronicle-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/IBM_QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-</td>
-</tr>
-
-<tr>
-<th align="left">🔓 Offensive Tools</th>
-<td>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-4F5D95?style=for-the-badge&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=generic&logoColor=white" />
-</td>
-</tr>
-
-<tr>
-<th align="left">📡 Network Analysis</th>
-<td>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white" />
-<img src="https://img.shields.io/badge/tcpdump-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </td>
 </tr>
 
@@ -94,18 +64,18 @@ Current focus:
 <td>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VirtualBox-214294?style=for-the-badge&logo=virtualbox&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </td>
 </tr>
 
 <tr>
-<th align="left">📄 Productivity Tools</th>
+<th align="left">📄 Productivity</th>
 <td>
 <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-<img src="https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />
 </td>
 </tr>
 </table>
