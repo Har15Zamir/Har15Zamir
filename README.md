@@ -95,12 +95,10 @@ Current focus:
 
 ## 🎖️ Credly Badges
 
-<a href="https://www.credly.com/badges/32ef6f34-2018-43a6-96fb-4639b5240132/public_url" target="_blank">
-  <img src="https://wsrv.nl/?url=https://images.credly.com/size/680x680/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob" alt="Google Cybersecurity Professional Certificate" width="120"/>
-</a>
-<a href="https://www.credly.com/badges/50ae9a62-df3c-4753-bbc1-60c159c12fbc/public_url" target="_blank">
-  <img src="https://wsrv.nl/?url=https://images.credly.com/size/220x220/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" alt="(ISC)² Candidate" width="110"/>
-</a>
+<p align="left">
+  <a href="https://www.credly.com/badges/32ef6f34-2018-43a6-96fb-4639b5240132/public_url"><img src="https://wsrv.nl/?url=https://images.credly.com/size/680x680/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob" alt="Google Cybersecurity Certificate" width="100"/></a>
+  <a href="https://www.credly.com/badges/50ae9a62-df3c-4753-bbc1-60c159c12fbc/public_url"><img src="https://wsrv.nl/?url=https://images.credly.com/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" alt="(ISC)² Candidate" width="100"/></a>
+</p>
 
 ---
 
