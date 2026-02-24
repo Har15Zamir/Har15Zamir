@@ -95,11 +95,9 @@ Current focus:
 
 ## 🎖️ Credly Badges
 
-<p align="left">
-<a href="https://www.credly.com/badges/32ef6f34-2018-43a6-96fb-4639b5240132/public_url">
-  <img src="https://wsrv.nl/?url=https://images.credly.com/images/22372332-6e21-432a-9e22-63a23223068e/google-cybersecurity-certificate.png" alt="Google Cybersecurity Professional Certificate" width="100"/>
+<a href="https://www.credly.com/badges/32ef6f34-2018-43a6-96fb-4639b5240132/public_url" target="_blank">
+  <img src="https://wsrv.nl/?url=https://images.credly.com/size/680x680/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob" alt="Google Cybersecurity Professional Certificate" width="120"/>
 </a>
-</p>
 
 
 
