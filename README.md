@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align = "center">
- <img src="avedeto-pixel-art-12601.gif" width="500"/>
+ <img src="avedeto-pixel-art-12601.gif" width="300"/>
 </p>
 
 # 👋 Hi, I'm Haris Zamir
