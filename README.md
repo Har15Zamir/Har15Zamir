@@ -2,7 +2,7 @@
 <p align="center">
   <img src="avedeto-pixel-art-12601.gif" width="250"/>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnBqdmkyeDM5aWcybWJjYzJibGZidjQxajl4bWxscXdicmV0OHJuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="250"/>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnkxNmprNHJ3Z25uajdocmpqNzcyNGpzbm9rcXZiOHlrbWh5ZmN1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="250"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnkxNmprNHJ3Z25uajdocmpqNzcyNGpzbm9rcXZiOHlrbWh5ZmN1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="250" style="transform: scaleX(-1);/>
 </p>
 
 # 👋 Hi, I'm Haris Zamir
