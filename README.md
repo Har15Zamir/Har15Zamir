@@ -5,8 +5,11 @@
 ## 🧠 About Me
 
 👋 Hi, I'm **Haris Zamir**, a CS Sophomore at **NED University of Engineering and Technology**.
-
 With a keen interest in technology, programming, and innovation, I’m currently exploring the vast field of cybersecurity while also dabbling in web development and building personal projects to sharpen my skills.
+
+Current focus:
+  - Building a Homelab
+  - Getting ISC2 Certified
 
 ---
 
