@@ -93,6 +93,15 @@ Current focus:
 
 ---
 
+## 🎖️ Credly Badges
+
+<a href="https://www.credly.com/badges/32ef6f34-2018-43a6-96fb-4639b5240132/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/22372332-6e21-432a-9e22-63a23223068e/google-cybersecurity-certificate.png" width="150" height="150" alt="Google Cybersecurity Professional Certificate" title="Google Cybersecurity Professional Certificate">
+</a>
+
+
+
+
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haris-zamir-111b10344/)
