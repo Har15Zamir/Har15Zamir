@@ -4,9 +4,9 @@
 
 ## 🧠 About Me
 
-👋 Hi, I'm **Haris Zamir**, a CS Sophomore at **NED University of Engineering and Technology**.  
+👋 Hi, I'm **Haris Zamir**, a CS Sophomore at **NED University of Engineering and Technology**.
 
-I have a keen interest in technology, programming, and analytical thinking. Currently, I’m focused on cybersecurity while occasionally exploring web development and building personal projects to further develop my technical expertise.
+With a keen interest in technology, programming, and innovation, I’m currently exploring the vast field of cybersecurity while also dabbling in web development and building personal projects to sharpen my skills.
 ---
 
 
