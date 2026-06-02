@@ -36,7 +36,7 @@ With a keen interest in technology, programming, and innovation, I’m currently
 </td>
 </tr>
 
-<tr>
+<!-- <tr>
 <th align="left">🛡️ SIEM & Monitoring</th>
 <td>
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
@@ -63,7 +63,20 @@ With a keen interest in technology, programming, and innovation, I’m currently
 <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white" />
 <img src="https://img.shields.io/badge/tcpdump-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </td>
+</tr> -->
+
+
+<tr>
+<th align="left">🛡️ Cybersecurity</th>
+<td>
+<img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white" />
+<img src="https://img.shields.io/badge/tcpdump-000000?style=for-the-badge&logo=linux&logoColor=white" />
+</td>
 </tr>
+
 
 <tr>
 <th align="left">🛠️ Developer Tools</th>
