@@ -107,6 +107,9 @@ With a keen interest in technology, programming, and innovation, I’m currently
 <p align="left">
   <a href="https://www.credly.com/badges/32ef6f34-2018-43a6-96fb-4639b5240132/public_url"><img src="https://wsrv.nl/?url=https://images.credly.com/size/680x680/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob" alt="Google Cybersecurity Certificate" width="100"/></a>
   <a href="https://www.credly.com/badges/50ae9a62-df3c-4753-bbc1-60c159c12fbc/public_url"><img src="https://wsrv.nl/?url=https://images.credly.com/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" alt="(ISC)² Candidate" width="100"/></a>
+  <a href="https://www.credly.com/badges/3aa2a25a-d424-4fa7-b597-be5b97f70435/public_url"><img src="https://wsrv.nl/?url=https://images.credly.com/images/a33f51fa-d8f8-4d3d-9dff-464396e7da92/image.png" alt="Introduction to Cybersecurity Careers" width="100"/></a>
+  <a href="https://www.credly.com/badges/db5c12d1-736c-4781-86ff-9ce9d3f17b2a/public_url"><img src="https://wsrv.nl/?url=https://images.credly.com/images/c1426860-8205-4220-a0d5-5e6d4f07db17/blob" alt="Cybersecurity Essentials" width="100"/></a>
+  <a href="https://www.credly.com/badges/f8b23273-665b-4f5f-a243-b0751e8b5a69/public_url"><img src="https://wsrv.nl/?url=https://images.credly.com/images/4ccd9157-c68a-4797-b23c-506601198991/blob" alt="Introduction to Cybersecurity Tools and Cyberattacks V3" width="100"/></a>
 </p>
 
 ---
