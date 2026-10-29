@@ -2,17 +2,17 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle">
-      <a href="https://www.linkedin.com/in/haris-zamir/"><img src="./assets/linkedin.svg" width="200" alt="LinkedIn — Haris Zamir" /></a>
+      <a href="https://www.linkedin.com/in/haris-zamir/"><img src="./assets/linkedin.svg" width="240" alt="LinkedIn — Haris Zamir" /></a>
       <br><br><br>
-      <a href="mailto:hariszamir07@gmail.com"><img src="./assets/gmail.svg" width="200" alt="Gmail hariszamir07@gmail.com" /></a>
+      <a href="mailto:hariszamir07@gmail.com"><img src="./assets/gmail.svg" width="240" alt="Gmail hariszamir07@gmail.com" /></a>
     </td>
     <td align="center" valign="middle">
-      <img src="./assets/haris-gif.gif" width="400" alt="Pixel art of Haris at his desk" />
+      <img src="./assets/haris-gif.gif" width="330" alt="Pixel art of Haris at his desk" />
     </td>
     <td align="center" valign="middle">
-      <a href="https://www.credly.com/users/haris-zamir"><img src="./assets/credly.svg" width="200" alt="Credly — Haris-Zamir" /></a>
+      <a href="https://www.credly.com/users/haris-zamir"><img src="./assets/credly.svg" width="240" alt="Credly — Haris-Zamir" /></a>
       <br><br><br>
-      <a href="https://learn.microsoft.com/en-us/users/hariszamir-3654/"><img src="./assets/mslearn.svg" width="200" alt="Microsoft Learn — HarisZamir-3654" /></a>
+      <a href="https://learn.microsoft.com/en-us/users/hariszamir-3654/"><img src="./assets/mslearn.svg" width="240" alt="Microsoft Learn — HarisZamir-3654" /></a>
     </td>
   </tr>
 </table>
