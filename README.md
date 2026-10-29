@@ -1,8 +1,4 @@
-<!-- Header Image -->
-<!-- <p align="center">
-  <img src="avedeto-pixel-art-12601.gif" width="400"/> -->
-
-
+<!-- Header -->
 <table align="center">
   <tr>
     <td align="center" valign="middle">
@@ -11,20 +7,19 @@
       <a href="mailto:hariszamir07@gmail.com"><img src="./assets/gmail.svg" width="200" alt="Gmail hariszamir07@gmail.com" /></a>
     </td>
     <td align="center" valign="middle">
-      <img src="avedeto-pixel-art-12601.gif" width="400"/>
+      <img src="./assets/haris-gif.gif" width="400" alt="Pixel art of Haris at his desk" />
     </td>
     <td align="center" valign="middle">
-      <a href="https://www.credly.com/users/haris-zamir"><img src="./assets/credly.svg" width="200" alt="Credly — hariszamir" /></a>
+      <a href="https://www.credly.com/users/haris-zamir"><img src="./assets/credly.svg" width="200" alt="Credly — Haris-Zamir" /></a>
       <br><br><br>
-      <a href="https://learn.microsoft.com/en-us/users/hariszamir-3654/"><img src="./assets/mslearn.svg" width="200" alt="Microsoft Learn — hariszamir-3654" /></a>
+      <a href="https://learn.microsoft.com/en-us/users/hariszamir-3654/"><img src="./assets/mslearn.svg" width="200" alt="Microsoft Learn — HarisZamir-3654" /></a>
     </td>
   </tr>
 </table>
 
-
 ## 🧠 About Me
 
-👋 Hi, I'm **Haris Zamir**, a CS Sophomore at **NED University of Engineering and Technology**.
+👋 Hi, I'm **Haris Zamir**, a CS Junior at **NED University of Engineering and Technology**.
 With a keen interest in technology, programming, and innovation, I’m currently exploring the vast field of cybersecurity while also dabbling in web development and building personal projects to sharpen my skills :D
 
 ---
@@ -41,50 +36,19 @@ With a keen interest in technology, programming, and innovation, I’m currently
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<!-- <img src="https://img.shields.io/badge/x86_Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white" /> -->
 </td>
 </tr>
 
 <tr>
 <th align="left">🌐 Web Development</th>
 <td>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </td>
 </tr>
-
-<!-- <tr>
-<th align="left">🛡️ SIEM & Monitoring</th>
-<td>
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Chronicle-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/IBM_QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-</td>
-</tr>
-
-<tr>
-<th align="left">🔓 Offensive Tools</th>
-<td>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-4F5D95?style=for-the-badge&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=generic&logoColor=white" />
-</td>
-</tr>
-
-<tr>
-<th align="left">📡 Network Analysis</th>
-<td>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white" />
-<img src="https://img.shields.io/badge/tcpdump-000000?style=for-the-badge&logo=linux&logoColor=white" />
-</td>
-</tr> -->
-
 
 <tr>
 <th align="left">🛡️ Cybersecurity</th>
@@ -93,10 +57,9 @@ With a keen interest in technology, programming, and innovation, I’m currently
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white" />
-<img src="https://img.shields.io/badge/tcpdump-000000?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
 </td>
 </tr>
-
 
 <tr>
 <th align="left">🛠️ Developer Tools</th>
@@ -105,19 +68,9 @@ With a keen interest in technology, programming, and innovation, I’m currently
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VirtualBox-214294?style=for-the-badge&logo=virtualbox&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<!-- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </td>
 </tr>
-
-<!-- <tr>
-<th align="left">📄 Productivity Tools</th>
-<td>
-<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-<img src="https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />
-</td>
-</tr> -->
 </table>
 
 ---
@@ -147,8 +100,3 @@ With a keen interest in technology, programming, and innovation, I’m currently
 </p>
 
 ---
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haris-zamir-111b10344/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariszamir07@gmail.com)
