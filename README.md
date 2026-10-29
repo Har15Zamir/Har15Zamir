@@ -1,6 +1,26 @@
 <!-- Header Image -->
-<p align="center">
-  <img src="avedeto-pixel-art-12601.gif" width="400"/>
+<!-- <p align="center">
+  <img src="avedeto-pixel-art-12601.gif" width="400"/> -->
+
+
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://www.linkedin.com/in/haris-zamir/"><img src="./assets/linkedin.svg" width="200" alt="LinkedIn — Haris Zamir" /></a>
+      <br><br><br>
+      <a href="mailto:hariszamir07@gmail.com"><img src="./assets/gmail.svg" width="200" alt="Gmail hariszamir07@gmail.com" /></a>
+    </td>
+    <td align="center" valign="middle">
+      <img src="avedeto-pixel-art-12601.gif" width="400"/>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www.credly.com/users/haris-zamir"><img src="./assets/credly.svg" width="200" alt="Credly — hariszamir" /></a>
+      <br><br><br>
+      <a href="https://learn.microsoft.com/en-us/users/hariszamir-3654/"><img src="./assets/mslearn.svg" width="200" alt="Microsoft Learn — hariszamir-3654" /></a>
+    </td>
+  </tr>
+</table>
+
 
 ## 🧠 About Me
 
