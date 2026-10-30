@@ -25,7 +25,7 @@
 
 ## 🧠 About Me
 
-👋 Hi, **Haris Zamir**, a third-year Computer Science undergraduate at **NEDUET** specializing in Cybersecurity. My primary interests include SOC operations, blue-team security, threat detection, incident response, and GRC. I work with SIEM, intrusion detection, vulnerability management, and security monitoring, while also having experience in full-stack development and application security through internships and projects :D
+👋 Hi, **Haris Zamir**, a third-year Computer Science undergraduate at **NEDUET** specializing in Cybersecurity. My primary interests include SOC operations, blue-team security, threat detection, incident response, and GRC. I work with SIEM, intrusion detection, vulnerability management, and security monitoring, while also having experience in full-stack development and application security through multiple internships and projects :D
 
 ---
 
